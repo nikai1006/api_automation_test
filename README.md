@@ -126,3 +126,6 @@ python manage.py runserver 0.0.0.0:8000
 <br>
 21、后台管理页面，主要用作数据管理，及项目人员添加删除<br>
 ![后台管理](https://github.com/githublitao/api_automation_test/blob/master/img/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png)
+
+### 参考文献
+- [配置template](https://www.jianshu.com/p/f105b747c9a3)
